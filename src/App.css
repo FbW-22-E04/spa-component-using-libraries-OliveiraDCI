@@ -2,18 +2,18 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  margin: 1rem auto ;
+  margin: 1rem auto;
   width: 1300px;
   justify-content: space-between;
 }
 
 input {
-    width: 20%;
-    height: 2rem;
-    margin: 1rem 0;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    padding: 0 1rem;
+  width: 20%;
+  height: 2rem;
+  margin: 1rem 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0 1rem;
 }
 
 li {
@@ -21,4 +21,3 @@ li {
   margin: 0;
   padding: 0.3em;
 }
-
